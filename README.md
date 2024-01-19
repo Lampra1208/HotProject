@@ -4,6 +4,9 @@
 #### 한눈에 보고, 빠르게 계획 할 수 있는 웹페이지!!
 <hr>
 
+발표 영상 https://www.youtube.com/watch?v=QFYUf47-tM4&list=PLedGoSru7949HpjolTIj01PMIzOOTG6Yq&index=4&t=1124s
+
+
 ### 개발환경
  - intllij
  - mysql
